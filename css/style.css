@@ -1,5 +1,24 @@
-body {
-    text-align: center;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
     font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    height: auto;
+    width: 70%;
+    margin: 10px auto;
+    padding: 15px;
+    border: black 1px solid;
     color: palevioletred;
+}
+
+header h1 {
+    width: 100%;
+    margin: 5px;
+    text-align: center;
 }
