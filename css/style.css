@@ -61,6 +61,15 @@ main p {
     color: #333;
 }
 
+figure {
+    width: 80%;
+    margin: 10px auto;
+}
+
+figure img {
+    width: 100%
+}
+
 footer {
     padding: 5px;
     text-align: center;
